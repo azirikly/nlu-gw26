@@ -1,0 +1,41 @@
+title: "CSCI 4907/6907 NLP for Health"
+author: "Aya Zirikly"
+description: "George Washington University"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: false             # show article excerpts instead of archive list on the home page
+show_frame: true                # display a grey frame on large screens
+show_sidebar: false             # show a sidebar instead of the usual header
+show_minimal: false             # remove all clutter
+show_social: false              # remove social icons
+
+#show_frame: "/assets/images/background.svg"
+
+# Menu                          # for available icons see https://fontawesome.com/v5/icons/
+
+navigation:                     # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html", title: Home, sidebaricon: home}
+  - {file: "syllabus.md", title: Syllabus, sidebaricon: syllabus}
+  - {file: "resources.md", title: Resources, sidebaricon: resources}
+  - {file: "projects.md", title: Projects, sidebaricon: projects}
+  - {file: "policies.md", title: GW Policies, sidebaricon: policies}
+  #- {file: "README.md", sidebaricon: address-card}
+
+external:                       # accepts {file, title, url, icon, sidebaricon}
+  - {title: Mail, icon: envelope, url: "mailto:ayah.zirikly@gwu.edu"}
+  - {title: CS&#64GW, url: "https://cs.engineering.gwu.edu/"}
+  - {title: Student Affairs, url: "https://students.gwu.edu/"}
+#  - {title: Github, icon: github, url: "https://cs.engineering.gwu.edu/"}
+#  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+
+comments:
+#  disqus_shortname: ""         # see https://disqus.com
+#  isso_domain: ""              # see https://isso-comments.de
+
+plugins:
+ - jekyll-feed
