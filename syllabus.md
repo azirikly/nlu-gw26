@@ -3,81 +3,68 @@ title: "Syllabus"
 layout: page
 ---
 
-### Weekly Materials
-Tentative and can change slightly based as the course progresses
+## Course Description
+This course introduces the theoretical foundations and practical methods of Natural Language Processing (NLP). Students will learn how machines process and understand human language, beginning with linguistic and statistical foundations, progressing through traditional machine learning approaches, and culminating in modern deep learning techniques including transformers and large language models (LLMs). The course also addresses evaluation, bias, fairness, and responsible NLP.
+### Books 
+Speech and Language Processing, Daniel Jurafski and James Martin, 3rd edition, 2026
+https://web.stanford.edu/~jurafsky/slp3/ed3book_jan26.pdf
 
-## Week 1: Introduction to NLP in Healthcare
-- Introduction and getting to know each other
-- Overview of the class structure (open to updates and changes) 
-- Paper presentations 
- * 2-3 papers per class 
-- Project overview
-- Overview of NLP applications in health
-- Discussion on course projects
- * Topics of interest
- * Teams 
-- Timing and final presentations
-- Break 2-2:15
-- 2:15-3:15 HPC tutorial by Jake Messick
-  
-## Week 2: Medical Ontologies and UMLS 
-- Importance of ontologies in health NLP
-- UMLS and its applications with paper discussions
-- Project updates
-  
-## Week 3: Named Entity Recognition (NER) in Medical Texts
-- Key methods and tools in NER for healthcare
-- Review of recent NER studies
-- Project updates
+## Learning Outcomes
+By the end of the course, students will be able to:
+Explain core linguistic and statistical concepts underlying NLP
+Implement and evaluate traditional and neural NLP models
+Understand and compare major NLP tasks and benchmarks
+Describe transformer architectures and LLMs
+Critically analyze bias, ethics, and societal impact in NLP systems
 
-## Week 4: Relation Extraction in Healthcare
-- Techniques and challenges in extracting relations
-- Case studies and paper discussions
-- Project updates
+## Schedule
+Tentative and may change based on how the class progresses 
+## Week 1 (01/13/2026) 
+Introduction to Natural Language Processing and Language as Data , Logistics
+## Week 2 (01/20/2026) 
+Linguistic Foundations for NLP
+## Week 3 (01/27/2026) 
+Text Processing & Data Preparation
+## Week 4 (02/03/2026) 
+Statistical NLP and Traditional Language Models
+- N-gram Language Models
+- Smoothing and Perplexity
+- Zipf’s law
+## Week 5 (02/10/2026) 
+- Vector Space Model
+- Bag of Words
+- TF-IDF
+## Week 6 (02/17/2026) 
+Traditional Machine Learning Models
+## Week 7 (02/24/2026) 
+- Core NLP Tasks
+- Classification
+- Topic Modeling
+- Sentiment Analysis
+## Week 8 (03/03/2026) 
+- Core NLP Tasks II 
+- Named Entity Recognition
+- Parsing
+- Part-Of-Speech (POS) tagging
+## 03/10/2026 NO CLASS - SPRING BREAK
+## Week 9 (03/17/2026) 
+Word Embeddings and Distributed Representations
+## Week 10 (03/24/2026) 
+- Neural Networks
+- Feedforward Networks
+- LSTM
+## Week 11 (03/31/2026) 
+NLP Applications
+## Week 12 (04/07/2026) 
+Transformer Models and Attention
+## Week 13 (04/14/2026) 
+Evaluation, Interpretability, and Bias
+## Week 14 (04/21/2026) 
+FINAL PROJECT PRESENTATION
 
-## Week 5: Datasets 
-- Exploration of datasets specific to health research
-- Clinical data vs. social media
-- Project updates
+## Grading -tentative
+Homeworks 20%
+Quiz + midterm 35%
+Final Project 40% 
+Participation 5%
 
-## Week 6: Traditional Machine Learning vs. Large Language Models in Health
-- Overview of traditional methods in health
-- Overview of LLM in health
-- Project updates
-
-## Week 7: Predictive Modeling -session 1
-- Choose from three main categories
-- Symptoms discovery
-- Disease detection
-- Decision support systems
-
-## Week 8: Predictive Modeling -session 2 
-- Choose from three main categories
-- Symptoms discovery
-- Disease detection
-- Decision support systems
-
-## Week 9: Mental Health and NLP 
-- Applications of NLP in mental health assessment
-- Review of research and future possibilities
-
-## Week 10: Sentiment Analysis and Emotion Detection in Health
-- Techniques and challenges in sentiment analysis
-- Discussion of relevant papers in mental health contexts
-
-## Week 11: Ethics and bias in NLP for Health 
-- Privacy, bias, and fairness in health NLP
-- Deep view on model biases
-- Critical analysis of ethical issues through papers
-
-## Week 12: Explainable AI 
-- Importance and techniques of explainability in health models
-- Interpretability and its impact on clinical integration
-
-## Week 13: Trends and Innovations and project presentations 
-- Emerging trends and future possibilities
-- Paper discussions on cutting-edge research
-
-## Week 14: Project Presentations and Course Wrap-up 
-- Student project presentations
-- Reflective discussions on course learnings
