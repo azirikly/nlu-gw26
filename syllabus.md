@@ -11,11 +11,11 @@ https://web.stanford.edu/~jurafsky/slp3/ed3book_jan26.pdf
 
 ## Learning Outcomes
 By the end of the course, students will be able to:
-Explain core linguistic and statistical concepts underlying NLP
-Implement and evaluate traditional and neural NLP models
-Understand and compare major NLP tasks and benchmarks
-Describe transformer architectures and LLMs
-Critically analyze bias, ethics, and societal impact in NLP systems
+- Explain core linguistic and statistical concepts underlying NLP
+- Implement and evaluate traditional and neural NLP models
+- Understand and compare major NLP tasks and benchmarks
+- Describe transformer architectures and LLMs
+- Critically analyze bias, ethics, and societal impact in NLP systems
 
 ## Schedule
 Tentative and may change based on how the class progresses 
