@@ -1,5 +1,5 @@
 ---
-title: "GW Policies"
+title: ""
 layout: page
 ---
 
