@@ -6,5 +6,5 @@ layout: page
 
 ## NLP for Health 
 
-This is the course website for NLP for Health class by Aya Zirikly (CS@GW, Fall 2025)
+This is the course website for NLU class by Aya Zirikly (CS@GW, Spring 2026)
 
