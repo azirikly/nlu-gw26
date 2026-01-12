@@ -26,7 +26,7 @@ Tuesday 3:15-4:15, classroom or SEH 2880
 01/13/2026 - 04/21/2026 (excluding Tuesday **_03/10/2026 Spring break_**)
 1957 E 111, Foggy Bottom Campus
 
-### Grading
+### Grading -tentative
 - Homeworks 20%
 - Quiz + midterm 35%
 - Project 40% 
