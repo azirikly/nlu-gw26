@@ -14,6 +14,7 @@ By the end of the course, students will be able to:
 - Understand and compare major NLP tasks and benchmarks
 - Describe transformer architectures and LLMs
 - Critically analyze bias, ethics, and societal impact in NLP systems
+  
 ### Instructor 
 Aya Zirikly
 
