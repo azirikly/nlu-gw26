@@ -6,7 +6,7 @@ layout: page
 ## Schedule
 Tentative and may change based on how the class progresses 
 ### Week 1 (01/13/2026) 
-Introduction to Natural Language Processing and Language as Data , Logistics \\[Slides\\](slides/Lecture 1_ Introduction.pdf)
+Introduction to Natural Language Processing and Language as Data , Logistics \[Slides\](slides/Lecture 1_ Introduction.pdf)
 
 ### Week 2 (01/20/2026) 
 Linguistic Foundations for NLP
