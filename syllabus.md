@@ -9,7 +9,7 @@ Tentative and may change based on how the class progresses
 Introduction to Natural Language Processing and Language as Data , Logistics [Slides](slides/Lecture 1_ Introduction.pdf)
 
 ### Week 2 (01/20/2026) 
-Linguistic Foundations for NLP
+Linguistic Foundations for NLP [Slides](slides/Lecture2_ NLU_Zirikly.pdf)
 
 ### Week 3 (01/27/2026) 
 Text Processing & Data Preparation
