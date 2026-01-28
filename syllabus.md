@@ -12,7 +12,7 @@ Introduction to Natural Language Processing and Language as Data , Logistics [Sl
 Linguistic Foundations for NLP [Slides](slides/Lecture2_NLU_Zirikly.pdf)
 
 ### Week 3 (01/27/2026) 
-Text Processing & Data Preparation
+Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
 
 ### Week 4 (02/03/2026) 
 Statistical NLP and Traditional Language Models
