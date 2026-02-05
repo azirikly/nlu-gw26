@@ -15,10 +15,7 @@ Linguistic Foundations for NLP [Slides](slides/Lecture2_NLU_Zirikly.pdf)
 Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
 
 ### Week 4 (02/03/2026) 
-Statistical NLP and Traditional Language Models
-- N-gram Language Models
-- Smoothing and Perplexity
-- Zipf’s law
+Vector Space Model [Slides](slides/Lecture4_NLU_Zirikly.pdf)
 
 ### Week 5 (02/10/2026) 
 - Vector Space Model
