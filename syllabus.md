@@ -16,7 +16,7 @@ Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
 
 ### Week 4 (02/03/2026) 
 Vector Space Model [Slides](slides/Lecture4_NLU_Zirikly.pdf)
-* **Quiz 1** * 
+* **Quiz 1**
 
 ### Week 5 (02/10/2026) 
 - Vector Space Model
@@ -27,7 +27,7 @@ Vector Space Model [Slides](slides/Lecture4_NLU_Zirikly.pdf)
 Traditional Machine Learning Models
 
 ### Week 7 (02/24/2026) 
-- * **Quiz 2** * 
+* **Quiz 2**
 - Core NLP Tasks
 - Classification
 - Topic Modeling
