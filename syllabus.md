@@ -16,21 +16,23 @@ Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
 
 ### Week 4 (02/03/2026) 
 Vector Space Model [Slides](slides/Lecture4_NLU_Zirikly.pdf)
+**Quiz 1**
 
 ### Week 5 (02/10/2026) 
 - Vector Space Model
-- Bag of Words
-- TF-IDF
+- VSM Evaluation
+- Contextual embeddings
 
 ### Week 6 (02/17/2026) 
 Traditional Machine Learning Models
 
 ### Week 7 (02/24/2026) 
+**Quiz 2**
 - Core NLP Tasks
 - Classification
 - Topic Modeling
 - Sentiment Analysis
-
+  
 ### Week 8 (03/03/2026) 
 - Core NLP Tasks II 
 - Named Entity Recognition
