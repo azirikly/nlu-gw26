@@ -19,7 +19,7 @@ Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
 * **Quiz 1**
 
 ### Week 5 (02/10/2026) 
-- Vector Space Model
+- Vector Space Model (cont'd) [Slides](slides/Lecture5_NLU_Zirikly.pdf)
 - VSM Evaluation
 - Contextual embeddings
 
@@ -27,13 +27,14 @@ Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
 Traditional Machine Learning Models
 
 ### Week 7 (02/24/2026) 
-* **Quiz 2**
+* **Quiz 2 (Lecture 3, 4, and 5)**
 - Core NLP Tasks
 - Classification
 - Topic Modeling
 - Sentiment Analysis
   
 ### Week 8 (03/03/2026) 
+* **Quiz 3 (Lecture 6 and 7)**
 - Core NLP Tasks II 
 - Named Entity Recognition
 - Parsing
@@ -41,15 +42,14 @@ Traditional Machine Learning Models
 
 ### 03/10/2026 NO CLASS - SPRING BREAK
 ### Week 9 (03/17/2026) 
-Word Embeddings and Distributed Representations
-
-### Week 10 (03/24/2026) 
 - Neural Networks
 - Feedforward Networks
 - LSTM
+  
+### Week 10 (03/24/2026) 
+- NLP Applications
 
-### Week 11 (03/31/2026) 
-NLP Applications
+### Week 11 (03/31/2026) -NO CLASS
 
 ### Week 12 (04/07/2026) 
 Transformer Models and Attention
