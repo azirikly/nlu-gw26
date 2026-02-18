@@ -24,10 +24,12 @@ Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
 - Contextual embeddings
 
 ### Week 6 (02/17/2026) 
-Traditional Machine Learning Models
+- N-Gram models [Slides](slides/Lecture6_NLU_Zirikly.pdf)
+- Markov Assumption
 
 ### Week 7 (02/24/2026) 
 * **Quiz 2 (Lecture 3, 4, and 5)**
+- Traditional Machine Learning Models
 - Core NLP Tasks
 - Classification
 - Topic Modeling
