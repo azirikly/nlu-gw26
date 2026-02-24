@@ -49,6 +49,7 @@ Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
 - LSTM
   
 ### Week 10 (03/24/2026) 
+* **Quiz 4 (Lecture 8 and 9)**
 - NLP Applications
 
 ### Week 11 (03/31/2026) -NO CLASS
@@ -57,6 +58,7 @@ Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
 Transformer Models and Attention
 
 ### Week 13 (04/14/2026) 
+* **Quiz 5 (Week 10 and 12)** Week 11 no class
 Evaluation, Interpretability, and Bias
 
 ### Week 14 (04/21/2026) 
