@@ -29,11 +29,8 @@ Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
 
 ### Week 7 (02/24/2026) 
 * **Quiz 2 (Lecture 3, 4, and 5)**
-- Traditional Machine Learning Models
-- Core NLP Tasks
-- Classification
-- Topic Modeling
-- Sentiment Analysis
+- POS tagging [Slides](slides/Lecture7_NLU_Zirikly.pdf)
+- Markov Assumption
   
 ### Week 8 (03/03/2026) 
 * **Quiz 3 (Lecture 6 and 7)**
