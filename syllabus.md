@@ -37,7 +37,6 @@ Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
 - Core NLP Tasks II 
 - Named Entity Recognition
 - Parsing
-- Part-Of-Speech (POS) tagging
 
 ### 03/10/2026 NO CLASS - SPRING BREAK
 ### Week 9 (03/17/2026) 
