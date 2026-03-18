@@ -38,15 +38,16 @@ Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
 
 ### 03/10/2026 NO CLASS - SPRING BREAK
 ### Week 9 (03/17/2026) 
-- Core NLP Tasks 
-- Named Entity Recognition
-- Neural Networks
-- Feedforward Networks
-- LSTM
+- Neural Networks [Slides](slides/Lecture9_NLU_Zirikly.pdf)
+- Feedforward Networks 
+- RNN
+- Language Modeling using Neural Networks 
   
 ### Week 10 (03/24/2026) 
 * **Quiz 4 (Lecture 8 and 9)**
 - NLP Applications
+- Core NLP Tasks 
+- Named Entity Recognition
 
 ### Week 11 (03/31/2026) -NO CLASS
 
