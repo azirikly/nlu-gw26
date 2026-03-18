@@ -34,7 +34,7 @@ Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
   
 ### Week 8 (03/03/2026) 
 * **Quiz 3 (Lecture 6 and 7)**
-- Parsing
+- Parsing [Slides](slides/Lecture8_NLU_Zirikly.pdf)
 
 ### 03/10/2026 NO CLASS - SPRING BREAK
 ### Week 9 (03/17/2026) 
