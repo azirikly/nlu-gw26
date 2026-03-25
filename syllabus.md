@@ -45,9 +45,9 @@ Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
   
 ### Week 10 (03/24/2026) 
 * **Quiz 4 (Lecture 8 and 9)**
-- NLP Applications
-- Core NLP Tasks 
-- Named Entity Recognition
+- Neural Networks 2 [Slides](slides/Lecture10_NLU_Zirikly.pdf)
+- Transformer & Attention
+- Core NLP Tasks and how it evolved (Named Entity Recogntion, Coreference Resolution)
 
 ### Week 11 (03/31/2026) -NO CLASS
 
