@@ -46,19 +46,26 @@ Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
 ### Week 10 (03/24/2026) 
 * **Quiz 4 (Lecture 8 and 9)**
 - Neural Networks 2 [Slides](slides/Lecture10_NLU_Zirikly.pdf)
-- Transformer & Attention
+- Transformer Models & Attention
 - Core NLP Tasks and how it evolved (Named Entity Recogntion, Coreference Resolution)
 
 ### Week 11 (03/31/2026) -NO CLASS
 
 ### Week 12 (04/07/2026) 
-Transformer Models and Attention
+- Guest lecturer with Dr. Robert Pless on CLIP
+- XGBoost (Student presentation: Saad Mankarious)
 
 ### Week 13 (04/14/2026) 
-* **Quiz 5 (Week 10 and 12)** Week 11 no class
-Evaluation, Interpretability, and Bias
+- Autoregressive models and LLMs
+- Evaluation, Interpretability, and Bias
+- AI model alignment 
 
 ### Week 14 (04/21/2026) 
-FINAL PROJECT PRESENTATION
+**Quiz 5.** This will be a comprehensive quiz for the whole semester with special focus on week 10, 12, and 13 lectures. 
+Final project presentation (session 1, 3 teams), please check [project page](projects.md) for more details
+
+### Week 14 (04/21/2026) 
+Final project presentation (session 2, 5 teams), please check [project page](projects.md) for more details
+
 
 
