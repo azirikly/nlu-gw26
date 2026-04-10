@@ -28,7 +28,7 @@ Please signup for the final presentation using the following [link] (https://doc
 - Limitations and future work 
 
 ### Final Project Report
-The final report will be due 05/04 at 11:59PM EST. Please submit the final report via blackboard and make sure to include:
+The final report will be due 05/05 at 11:59PM EST. Please submit the final report via blackboard and make sure to include:
 - Final report
 - Project presentation
 - Link to your code (github repo) in the report and the presentation. 
