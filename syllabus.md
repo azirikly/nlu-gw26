@@ -53,10 +53,10 @@ Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
 
 ### Week 12 (04/07/2026) 
 - Guest lecturer with Dr. Robert Pless on CLIP
-- XGBoost (Student presentation: Saad Mankarious)
+- XGBoost (Student presentation: Saad Mankarious)[Slides](slides/XGBoost_Saad.pdf)
 
 ### Week 13 (04/14/2026) 
-- Autoregressive models and LLMs ([Slides](slides/Lecture12_NLU_Zirikly.pdf)
+- Autoregressive models and LLMs [Slides](slides/Lecture12_NLU_Zirikly.pdf)
 - Bias
 - AI model alignment 
 
