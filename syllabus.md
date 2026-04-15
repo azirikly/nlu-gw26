@@ -56,8 +56,8 @@ Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
 - XGBoost (Student presentation: Saad Mankarious)
 
 ### Week 13 (04/14/2026) 
-- Autoregressive models and LLMs
-- Evaluation, Interpretability, and Bias
+- Autoregressive models and LLMs ([Slides](slides/Lecture12_NLU_Zirikly.pdf)
+- Bias
 - AI model alignment 
 
 ### Week 14 (04/21/2026) 
