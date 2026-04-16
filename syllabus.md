@@ -61,7 +61,8 @@ Text Classification [Slides](slides/Lecture3_NLU_Zirikly.pdf)
 - AI model alignment 
 
 ### Week 14 (04/21/2026) 
-* **Quiz 5.** This will be a comprehensive quiz for the whole semester with special focus on week 10, 12, and 13 lectures. 
+* **Quiz 5.** This will be a comprehensive quiz for the whole semester with special focus on week 10, 12, and 13 lectures.
+* **HW 2** is posted on Blackboard, due date 04/28/2026, 11:59 EST. 
 - Final project presentation (session 1, 3 teams), please check [project page](projects.md) for more details
 
 ### Week 14 (04/21/2026) 
