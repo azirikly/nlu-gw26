@@ -26,7 +26,8 @@ You can choose between two dates **04/21** and **04/28**. As we discussed in the
 - Results and evaluation (please include motivation for why you chose the metrics you are using to report)
 - Discussion and analysis (this is so important as it shows your understanding of the project, data, and the results)
 - Lessons learned
-- Limitations and future work 
+- Limitations and future work
+- What each member of the team did
 
 ### Final Project Report
 The final report will be due 05/05 at 11:59PM EST. Please submit the final report via blackboard and make sure to include:
